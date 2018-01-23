@@ -1,3 +1,2 @@
 # mergeScenario
 *Alex
-*Bob
